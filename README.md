@@ -1,1 +1,1 @@
-# Encrypted app Denys Derihlazov
+# Space CMS app (Next.js)

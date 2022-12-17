@@ -1,12 +1,14 @@
 .footer {
+    position: absolute;
+    width: 100%;
     display: grid;
     grid-template-columns: 1fr auto auto;
     gap: 10px;
     color: var(--white);
     font-size: 16px;
     line-height: 20px;
-
-    background: var(--primary);
+    bottom: 0;
+    background: #171923;
     padding: 25px 30px;
 }
 
